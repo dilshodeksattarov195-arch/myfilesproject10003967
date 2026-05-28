@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycalculate",
+        "uuid": 11056029,
+        "checksum": "r6kqvq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
